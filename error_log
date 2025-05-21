@@ -1,0 +1,15 @@
+[21-Apr-2021 07:58:18 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/cp1519775p16/public_html/first.php:19
+Stack trace:
+#0 /home/cp1519775p16/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/cp1519775p16/public_html/first.php on line 19
+[21-Apr-2021 07:58:21 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/cp1519775p16/public_html/first.php:19
+Stack trace:
+#0 /home/cp1519775p16/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/cp1519775p16/public_html/first.php on line 19
+[21-Apr-2021 07:58:25 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/cp1519775p16/public_html/first.php:19
+Stack trace:
+#0 /home/cp1519775p16/public_html/index.php(3): include()
+#1 {main}
+  thrown in /home/cp1519775p16/public_html/first.php on line 19
